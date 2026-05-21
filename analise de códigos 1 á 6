@@ -1,0 +1,9 @@
+respostas 
+1- O programa diz Olá Mundo
+2- O programa diz Olá Mundo e pergunta ao usuário se ele está bem
+3- A diferença do exercicio 2 para o 3 é que o código só pula 1 linha depois de exibir "Olá Mundo"
+4- Ao executar o usuário digita algo, logo depois o programa lê, depois fica parado aguardando o usuário digitar algo
+5-A- O programa exibiu o numero 123, pulou uma linha, fez a operação matematica 100+200,pulou uma linha,e por ultimo exibiu o texto 100+200
+B- A diferença é que na linha 6 os números estão fora das aspas, e assim o computador entende como uma expressão aritmética e assim resolvendo a soma antes de exibir, e já na linha 7 o conteúdo está em aspas duplas, e assim o computador não executa nenhuma operaçãomatemática dentro de aspas e apenas exibe o texto que está ali.  
+6--o programa pergunta a idade do usuário, se a idade for maior que 18 então o usuário receberá a mensagem “maior de idade”
+
